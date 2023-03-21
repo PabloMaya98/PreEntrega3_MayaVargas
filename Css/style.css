@@ -53,12 +53,9 @@ form{
     display: flex;
     flex-flow: column;
     background-color: #ccd5f0;
-    width: 30%;
     height: 60%;
     padding: 20px;
     justify-content: center;
-    align-items: center;
-    box-shadow: rgba(0,0,0,0.8) 0px 0px 50px;
     border-radius: 10px;
     
 }
