@@ -4,8 +4,9 @@
     margin: 0px;
 
 }
-
-
+h5{
+    text-align:center;
+}
 footer{
     position: absolute;
     bottom: 1;
